@@ -19,13 +19,13 @@
 
 ### 🌐 Connect with Me :
 <p align="left">
-  <a href="https://instagram.com/curiousdevx" target="blank">
+  <a href="https://instagram.com/curiousdevx" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curiousdevx" height="30" width="40" />
   </a>
-  <a href="mailto:dope.mukeshyadav@gmail.com" target="blank">
+  <a href="mailto:dope.mukeshyadav@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/dopemukeshyadav/" target="blank">
+  <a href="https://www.linkedin.com/in/curious-mukesh/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
