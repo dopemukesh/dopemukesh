@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[Reusify UI](https://reusify-ui.vercel.app/)**  
 - 🌱 I’m currently learning **React JS, Python**  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.mukeshyadav.info/projects)**  
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.mukeshyadav.info/)**  
 - 📫 How to reach me: **dope.mukeshyadav@gmail.com**  
 - ⚡ Fun fact: **I find inspiration for my designs from everyday life and my diverse interests!**  
 
